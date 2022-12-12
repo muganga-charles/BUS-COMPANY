@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651152149 source:c:\users\hp\desktop\muk\bus company\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
