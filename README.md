@@ -6,4 +6,4 @@ First, the program only accepts a booking first before any other procedure, when
 The program then displays the total amount to pay then the user is allowed to the amount of money he has/ willing to pay
 Then the balance is calculated.<br />
 The room number allocated to the user is displayed
-hd
+h
