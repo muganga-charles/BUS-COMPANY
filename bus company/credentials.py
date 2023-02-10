@@ -19,7 +19,7 @@ def username1(username):
     for i in temp:
         if i in username:
             print("")
-def password1(password):
+def password1(password):#
     temp=[]
     for i in temp:
         if i in password:# 
