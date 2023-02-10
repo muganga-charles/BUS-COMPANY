@@ -22,6 +22,6 @@ def username1(username):
 def password1(password):
     temp=[]
     for i in temp:
-        if i in password:
+        if i in password:# 
             print("welcome")  
     return temp
