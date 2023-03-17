@@ -7,4 +7,4 @@ The program then displays the total amount to pay then the user is allowed to th
 Then the balance is calculated.<br />
 The room number allocated to the user is displayed
 T
-Hhhghhh
+Hhhghh
